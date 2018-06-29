@@ -17,9 +17,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <section class="hero is-large">
-          <div class="hero-body">
-            <div class="container">
+        <section className="hero is-large">
+          <div className="hero-body">
+            <div className="container">
               <h3 className="is-size-5">
                 Radio vida Panamá
               </h3>
